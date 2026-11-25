@@ -32,14 +32,6 @@
 
 ---
 
-<h3>🎯 &nbsp;Currently Working On</h3>
-
-<ul>
-  <li><strong>Networking Basics</strong> — Cisco Networking Academy | <em>In Progress</em></li>
-</ul>
-
----
-
 <h3>🌐 &nbsp;Projects</h3>
 
 <ul>
